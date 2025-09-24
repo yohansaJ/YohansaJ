@@ -15,7 +15,7 @@
 </p>
 
 ## 🤝 Let's Collaborate
-Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
+Whether you're passionate about technology or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
 
 </div>
 
