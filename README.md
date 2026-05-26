@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohansaj&label=Profile%20views&color=0e75b6&style=flat" alt="yohansaj" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with **Collaborate**
-
 - 📫 How to reach me **jithminiyohansa03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
